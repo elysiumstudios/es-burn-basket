@@ -236,5 +236,7 @@ public class DefaultInitializationErrorHandler : VuforiaMonoBehaviour
         return texture;
     }
 
+
+
     #endregion // PRIVATE_METHODS
 }
